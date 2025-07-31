@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# OpenCart-Extension
-=======
-
 # MontyPay Payments
 
 MontyPay Payments is a seamless payment gateway extension for OpenCart 4, providing a secure and user-friendly way to process transactions. With easy integration, it allows store owners to accept payments effortlessly, enhancing the checkout experience for customers. The extension supports multiple payment methods and currencies, making it an ideal solution for global e-commerce businesses.
@@ -22,4 +18,3 @@ MontyPay Payments is a seamless payment gateway extension for OpenCart 4, provid
     b. Set the Processed Status (a.k.a. the status indicating that the payment is successful and the merchant should process the order) to Processed.
 
     c. Adjust all other statuses as per your preferences.
->>>>>>> cb2ccb9 (first commit)
